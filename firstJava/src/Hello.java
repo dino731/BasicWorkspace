@@ -1,17 +1,15 @@
 public class Hello {
 
 	public static void main(String[] args) {
-		// ctrl + shift + L ´ÜÃàÅ° ÀüÃ¼ ¸ñ·Ï º¸±â
-		// ctrl + +, - ÆùÆ® »çÀÌÁî Å©±â Á¶Àı
-		// ctrl + D ÇÑ ÁÙ »èÁ¦
-		// ctrl + alt +down Çà ´ÜÀ§ º¹»ç
-		// alt + shift + A ¸ÖÆ¼ ÄÃ·³ ÆíÁı
-		// alt + up, down Çà ´ÜÀ§ ÀÌµ¿
-		// ctrl + i ÀÚµ¿ µé¿©¾²±â
-		// ctrl + / ÁÖ¼®(Åä±Û)
-		// ctrl + shift + / ¿©·¯ÁÙ ÁÖ¼®
-		// ctrl + space ÀÚµ¿¿Ï¼º
-		//Å×½ºÆ®
+		// ctrl + shift + L ë‹¨ì¶•í‚¤ ì „ì²´ ëª©ë¡ë³´ê¸°
+		// ctrl + +, - í°íŠ¸ í¬ê¸° ì¦ê°€ / ê°ì†Œ
+		// ctrl + D í•œ ì¤„ ì‚­ì œ
+		// ctrl + alt +down í–‰ ë‹¨ìœ„ ë³µì‚¬
+		// alt + shift + A ë©€í‹° ì»¬ëŸ¼ í¸ì§‘
+		// alt + up, down í–‰ ë‹¨ìœ„ ì´ë™
+		// ctrl + i ìë™ ë“¤ì—¬ì“°ê¸°
+		// ctrl + / ì£¼ì„(í† ê¸€)
+		// ctrl + shift + / ì—¬ëŸ¬ì¤„ ì£¼ì„
 		
 		System.out.println("Hello");
 		System.out.println("Hello");
