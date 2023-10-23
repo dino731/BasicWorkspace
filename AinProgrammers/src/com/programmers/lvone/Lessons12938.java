@@ -89,12 +89,17 @@ class Lessons12938 {
 			 return new int[]{-1};
 		 }
 		int[] answer = new int[n];	
-
+//		List<int[]> list = new ArrayList<>();
 		
         for(int i = 0; i < answer.length; i++) {
-        	answer[i] = s/n;
+        	answer[i] = s/n; // 3, 3, 3
         }
-//        Arrays.sort(list);
+        
+        for(int i = 0; i < s%n ; i++ ) {
+        	answer[i]++;
+        }
+        
+        Arrays.sort(answer);
         return answer;
     }
 }
