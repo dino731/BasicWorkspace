@@ -10,7 +10,7 @@ public class Ex14_0 {
 //		};
 		
 		// 람다식을 다루기 위한 참조 변수의 타입은 함수형 인터페이스로 한다.
-		MyFunction obj = (a,b) -> a > b ? a : b;  // 람다식. 익명 객체
+		MyFunction2 obj = (a,b) -> a > b ? a : b;  // 람다식. 익명 객체
 		
 		int value = obj.max(3,5); // 함수형 인터페이스
 		System.out.println("value = "+value);
@@ -19,6 +19,6 @@ public class Ex14_0 {
 }
 //함수형 인터페이스 생성
 @FunctionalInterface   // 함수형 인터페이스는 단 하나의 추상 메서드만 가져야 한다.
-interface MyFunction{
+interface MyFunction2{
 	public abstract int max(int a, int b);
 }
