@@ -40,4 +40,12 @@ public class Lessons12919 {
         return index.isPresent() ? "김서방은 " + index.get() + "에 있다" : "김서방은 없다";
     }
     
+    // 다른 사람의 풀이
+    // 이렇게 쉬운 방법이 있다 ( stream을 공부해보고싶었음..)
+    public String findKim(String[] seoul){
+        //x에 김서방의 위치를 저장하세요.
+        int x = Arrays.asList(seoul).indexOf("Kim");        
+        return "김서방은 "+ x + "에 있다";
+    }
+    
 }
