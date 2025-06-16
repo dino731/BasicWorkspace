@@ -1,3 +1,4 @@
+/*
 package com.javabasic.ch13;
 
 class Ex13_10 {
@@ -35,4 +36,4 @@ class RunImplEx10 implements Runnable {
 			} catch(InterruptedException e) {}
 		}
 	} // run()
-}
+}*/
