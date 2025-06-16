@@ -36,6 +36,9 @@ public class Lessons12910 {
         int [] result = arrStream.filter( e -> e % divisor == 0).sorted().toArray();
         return answer = (result.length == 0 ) ? new int[] {-1} : result ;
 
+        //2025.06.16.15:57 inteellij Git 업로드 테스트
+        //왜 체인지가 안뜨지???
+
         
     }
 }
