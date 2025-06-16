@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85f4e07e-f3f3-4eac-907f-b3c55147a45a" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/AinProgrammers/src/com/programmers/lvone/Lessons12910.java" beforeDir="false" afterPath="$PROJECT_DIR$/AinProgrammers/src/com/programmers/lvone/Lessons12910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EIP/src/com/soojebiFinal/mogo0104.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +16,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="보안 분석" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2p9b6jG1PFBxs3qV5doiHUxUgjQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +43,8 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/AinBasicWork/AinBasicWork/BasicWorkspace/untitled/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;애플리케이션.Lessons212933.executor&quot;: &quot;Run&quot;
   }
@@ -59,11 +67,24 @@
       <updated>1732181065126</updated>
       <workItem from="1732181066319" duration="560000" />
       <workItem from="1750057005874" duration="428000" />
-      <workItem from="1750057461715" duration="1003000" />
+      <workItem from="1750057461715" duration="2405000" />
+      <workItem from="1750061977836" duration="137000" />
+      <workItem from="1750062127433" duration="167000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/untitled/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
